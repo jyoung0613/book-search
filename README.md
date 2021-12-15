@@ -22,11 +22,11 @@ Book Search engine with restructured code to make a React app using the full MER
 
 SCREENSHOTS: Homepage, containing funds both added and subtracted while on- and off-line.
 
-![BookSearch Login](/public/images/Login.png)
-![BookSearch Home](/public/images/Home.png)
-![BookSearch Save](/public/images/Save.png)
-![BookSearch Saved](/public/images/Saved.png)
-![BookSearch Delete](/public/images/Delete.png)
+![BookSearch Login](client/public/images/Login.png)
+![BookSearch Home](client/public/images/Home.png)
+![BookSearch Save](client/public/images/Save.png)
+![BookSearch Saved](client/public/images/Saved.png)
+![BookSearch Delete](client/public/images/Delete.png)
 
 ## License
 
