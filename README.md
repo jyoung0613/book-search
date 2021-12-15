@@ -20,7 +20,7 @@ Book Search engine with restructured code to make a React app using the full MER
 
 [This Book-Search app has been deployed on Heroku and is available here.](https://gentle-wave-36556.herokuapp.com/)
 
-SCREENSHOTS: Homepage, containing funds both added and subtracted while on- and off-line.
+SCREENSHOTS: Login, Home, Save, Saved, & Delete.
 
 ![BookSearch Login](client/public/images/Login.png)
 ![BookSearch Home](client/public/images/Home.png)
